@@ -53,7 +53,9 @@ Each team will consist of two DSI students and two WDI students (as best we can 
 ## WDI - Helpful Visualization Libraries:
 - [ChartKick (React)](https://chartkick.com/react) - Offers line, bar, pie, geo (think a global heatmap).  One-line components, pretty nifty. [npm link](https://www.npmjs.com/package/react-chartkick)
 - [Chart.js](https://www.chartjs.org/) - Very popular simple charts library. Clean look, pretty animations. [npm link](https://www.npmjs.com/package/react-chartjs-2)
-- [React Google Charts](https://react-google-charts.com/) - Robust charting app; Creates charts like the ones seen in Google Sheets. [npm link](https://www.npmjs.com/package/react-google-charts)
+- [Canvas JS](https://canvasjs.com/react-charts/) - pretty, lots of chart options.
+- [React Google Charts](https://react-google-charts.com/) - Robust charting app; Creates charts like the ones seen in Google Sheets. Lots of options.  [npm link](https://www.npmjs.com/package/react-google-charts)
+- [Fusion Charts](https://www.fusioncharts.com/react-charts) - One of the most beautiful libraries, limited options but gorgeous if you only need Pie, Line, Bar chart, or other basics.
 - [Recharts](http://recharts.org/en-US) - D3 based charting library - [npm link](https://www.npmjs.com/package/recharts)
 - [D3](https://d3js.org/) - Considered the king of kings for charting libraries.  This is a vanilla JS library!  There are some React ports of it, but they are largely unsupported.  It's recommended to use the vanilla JS version.
 
