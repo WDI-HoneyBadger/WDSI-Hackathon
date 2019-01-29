@@ -41,7 +41,7 @@ Each team will consist of two DSI students and two WDI students (as best we can 
 - Create a front end application that consumes the DSI team's api.
 - Deploy your application using Surge
 - Create one visualization that utilizes a POST request (you'll probably want a form) and renders the result of that request.
-- Create one visuialization that uses a GET request.
+- Create one visuialization that uses a GET request that retrieves a set of data for another chart.  This GET request may require some filters or queries, coordinate with your group.
 
 ## Tips for WDI Students
 - You can use any front-end technologies you want here!  React does offer some nice features, so we'd loosely suggest it, but the choice is yours.
